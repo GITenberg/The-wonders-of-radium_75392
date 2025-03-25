@@ -1,5 +1,8 @@
 _repo: The-wonders-of-radium_75392
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75392-h/images/cover.jpg
 creator:
   author:
     agent_name: Shipley, Maynard
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/486
     wikipedia: https://en.wikipedia.org/wiki/E._Haldeman-Julius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75392#The-wonders-of-radium
 gutenberg_issued: '2025-02-17'
 gutenberg_type: Text
 identifiers:
